@@ -1,16 +1,131 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Joseph+Clark;Prediction+Market+Quant;AI+Researcher+%7C+Software+Architect;Building+the+Future+of+Autonomous+Agents" alt="Typing SVG" />
+</h1>
 
-<!--
-**Josefusan/Josefusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Quant & AI Researcher @ Mises Group</b><br/>
+  Building autonomous AI systems to arbitrage niche web3 prediction markets
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/Josefusan111"><img src="https://img.shields.io/badge/𝕏-@Josefusan111-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/Josefusan"><img src="https://img.shields.io/badge/GitHub-Josefusan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+Prediction market quant and software architect at **Mises Group**, where I design and deploy autonomous AI agent systems that identify and exploit inefficiencies across web3 markets. I build full-stack production systems end-to-end — from model research to Kubernetes-orchestrated deployments — with a focus on multi-agent architectures, real-time data pipelines, and quantitative trading infrastructure.
+
+Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an open-source, domain-specific AI BDR/SDR application layer that never sleeps and books qualified meetings while you close deals.
+
+---
+
+### 🏆 Hackathon
+
+| Event | Project | Result |
+|-------|---------|--------|
+| **LabLab.ai AI Agents Hackathon** | [Twitter Bot 9000](https://lablab.ai/ai-hackathons/ai-agents-hackathon-2/twitter-bot-9000/twitter-bot-9000) — Fully autonomous Twitter thread writer using multi-agent LangChain pipelines (Idea Generator → Research Agent → Thread Generator → Auto-Post). Praised by PhD judges for effective agent prompting. | 🏆 Winner |
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI / ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Web3**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BDRclaw</h3>
+      <p align="center">
+        <a href="https://github.com/Josefusan/BDRclaw">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Open-source AI BDR/SDR application layer. Autonomous meeting booking engine that qualifies leads and schedules while you close.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">MiroFish</h3>
+      <p align="center">
+        <a href="https://github.com/Josefusan/MiroFish">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Universal Swarm Intelligence Engine for prediction and forecasting across any domain.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Josefusan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josefusan&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefusan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Build autonomous systems. Let the agents work while you sleep."</i>
+</p>
