@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Joseph+Clark;Prediction+Market+Quant;AI+Researcher+%7C+Software+Architect;Building+the+Future+of+Autonomous+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=900&lines=Joseph+Clark;Prediction+Market+Quant;AI+Researcher+%7C+Software+Architect;Building+the+Future+of+Autonomous+Agents" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -99,7 +99,7 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
       </p>
       <p align="center">Open-source AI BDR/SDR application layer. Autonomous meeting booking engine that qualifies leads and schedules while you close.</p>
     </td>
-    <!-- <td width="50%">
+    <td width="50%">
       <h3 align="center">MiroFish</h3>
       <p align="center">
         <a href="https://github.com/Josefusan/MiroFish">
@@ -107,7 +107,7 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
         </a>
       </p>
       <p align="center">Universal Swarm Intelligence Engine for prediction and forecasting across any domain.</p>
-    </td> -->
+    </td>
   </tr>
 </table>
 
