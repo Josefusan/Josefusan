@@ -118,15 +118,27 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github.com/Josefusan/Josefusan/blob/main/achievements.svg" alt="GitHub Achievements" />
+</p>
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github.com/Josefusan/Josefusan/blob/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
+
+---
+
+### 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Josefusan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josefusan&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefusan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
 </p>
 
 <p align="center">
