@@ -12,6 +12,12 @@
   <a href="https://github.com/Josefusan"><img src="https://img.shields.io/badge/GitHub-Josefusan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Josefusan&color=58A6FF&style=flat-square&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Josefusan?style=flat-square&color=58A6FF&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Josefusan?style=flat-square&color=58A6FF&label=Stars" />
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -32,6 +38,10 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
 
 ### 💻 Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="33%">
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -39,50 +49,45 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-**DevOps & Cloud**
+</td>
+<td valign="top" width="33%">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Web3**
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -113,22 +118,10 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
 
 ---
 
-### 🏆 Achievements
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/Josefusan/Josefusan/blob/main/achievements.svg" alt="GitHub Achievements" />
-</p>
-
----
-
-### 📊 GitHub Stats & Metrics
-
-<p align="center">
-  <img src="https://github.com/Josefusan/Josefusan/blob/main/github-metrics.svg" alt="GitHub Metrics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josefusan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Josefusan&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josefusan&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 
@@ -136,13 +129,9 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josefusan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
 </p>
 
----
-
-### 🌟 Profile Highlights
-
-![](https://komarev.com/ghpvc/?username=Josefusan&color=blue&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Josefusan?style=social)](https://github.com/Josefusan)
-[![GitHub stars](https://img.shields.io/github/stars/Josefusan?style=social)](https://github.com/Josefusan)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josefusan&theme=github-dark&hide_border=true&area=true" width="90%" />
+</p>
 
 ---
 
