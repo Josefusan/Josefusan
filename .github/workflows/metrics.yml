@@ -22,43 +22,30 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: America/New_York
           
-          # Achievements Plugin - Shows all unlocked achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          
           # Languages Plugin
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          # Isocalendar Plugin
+          # Isocalendar Plugin - 3D contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Stars Plugin  
+          # Stars Plugin - Recently starred repos
           plugin_stars: yes
           plugin_stars_limit: 3
           
-          # Activity Plugin
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          # Lines of code
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
           
-          # Habits Plugin
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # Follow-up of issues/PRs
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_indepth: yes

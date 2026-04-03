@@ -118,14 +118,6 @@ Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)** — an op
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github.com/Josefusan/Josefusan/blob/main/achievements.svg" alt="GitHub Achievements" />
-</p>
-
----
-
 ### 📊 GitHub Metrics
 
 <p align="center">
