@@ -24,7 +24,9 @@
 
 Prediction market quant and software architect at **Mises Group**, where I design and deploy autonomous AI agent systems that identify and exploit inefficiencies across web3 markets. I build full-stack production systems end-to-end — from model research to Kubernetes-orchestrated deployments — with a focus on multi-agent architectures, real-time data pipelines, and quantitative trading infrastructure.
 
-Currently building **[BDRclaw](https://github.com/Josefusan/BDRclaw)**; Website here: https://bdrclaw.dev/ — an open-source, domain-specific AI BDR/SDR application layer that never sleeps and books qualified meetings while you close deals.
+Currently building
+1. **[BDRclaw](https://github.com/Josefusan/BDRclaw)**; Website here: https://bdrclaw.dev/ — an open-source, domain-specific AI BDR/SDR application layer that never sleeps and books qualified meetings while you close deals.
+2. Vibeforge-IDE: A lightweight IDE that leverages free AI models as a replacement to paid IDE's or paid models/services.
 
 ---
 
