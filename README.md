@@ -106,15 +106,6 @@ Currently building
       </p>
       <p align="center">Open-source AI BDR/SDR application layer. Autonomous meeting booking engine that qualifies leads and schedules while you close.</p>
     </td>
-    <td width="50%">
-      <h3 align="center">MiroFish</h3>
-      <p align="center">
-        <a href="https://github.com/Josefusan/MiroFish">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Universal Swarm Intelligence Engine for prediction and forecasting across any domain.</p>
-    </td>
   </tr>
 </table>
 
