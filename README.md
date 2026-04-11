@@ -26,7 +26,7 @@ Prediction market quant and software architect at **Mises Group**, where I desig
 
 Currently building
 1. **[BDRclaw](https://github.com/Josefusan/BDRclaw)**; Website here: https://bdrclaw.dev/ — an open-source, domain-specific AI BDR/SDR application layer that never sleeps and books qualified meetings while you close deals.
-2. Vibeforge-IDE: A lightweight IDE that leverages free AI models as a replacement to paid IDE's or paid models/services.
+2. Mises Group Proprietary Trading System
 
 ---
 
