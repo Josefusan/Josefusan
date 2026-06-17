@@ -25,7 +25,7 @@
 Prediction market quant and software architect at **Mises Group**, where I design and deploy autonomous AI agent systems that identify and exploit inefficiencies across web3 markets. I build full-stack production systems end-to-end. from model research to Kubernetes-orchestrated deployments, with a focus on multi-agent architectures, real-time data pipelines, and quantitative trading infrastructure.
 
 Currently building
-1. **Leveraging AI systems, code and agents to automate every aspect of business as well as assisting in my AI research
+1. Leveraging AI systems, code and agents to automate every aspect of business as well as assisting in my AI research
 2. Mises Group Proprietary Trading System
 
 ---
