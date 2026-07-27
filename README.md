@@ -1,10 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=440&height=45&lines=A.I.+Engineer;Quant;AI+Researcher" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=440&height=45&duration=2200&lines=A.I.+Engineer;Quant;AI+Researcher" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <b>Quant & AI Researcher @ Mises Group</b><br/>
-  Building autonomous AI systems to arbitrage niche web3 prediction markets
+  Building autonomous AI systems to find, research, validate and execute various forms of financial arbitrage
 </p>
 
 <p align="center">
