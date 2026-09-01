@@ -1,15 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=440&height=45&duration=2200&lines=A.I.+Engineer;Quant;AI+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=520&height=45&duration=2200&lines=AI+Automation;AI+Consulting;AI+Engineer+%26+Quant" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Quant & AI Researcher @ Mises Group</b><br/>
-  Building autonomous AI systems to find, research, validate and execute various forms of financial arbitrage
+  <b>Founder @ MyGrokFlow · Building BDRclaw · Quant @ Mises Group</b><br/>
+  I build AI systems that run businesses without their owners — automated workflows, AI sales agents, and trading systems that work while you sleep.
+</p>
+
+<p align="center">
+  <a href="https://mygrokflow.com"><img src="https://img.shields.io/badge/MyGrokFlow-AI_Automation_Agency-58A6FF?style=for-the-badge" /></a>
+  <a href="https://bdrclaw.dev"><img src="https://img.shields.io/badge/BDRclaw-AI_BDR-181717?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/Josefusan111"><img src="https://img.shields.io/badge/𝕏-@Josefusan111-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://github.com/Josefusan"><img src="https://img.shields.io/badge/GitHub-Josefusan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://substack.com/@josefucan"><img src="https://img.shields.io/badge/Substack-josefucan-FF6719?style=for-the-badge&logo=substack&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -22,11 +28,49 @@
 
 ### 🧠 About Me
 
-Prediction market quant and software architect at **Mises Group**, where I design and deploy autonomous AI agent systems that identify and exploit inefficiencies across web3 markets. I build full-stack production systems end-to-end. from model research to Kubernetes-orchestrated deployments, with a focus on multi-agent architectures, real-time data pipelines, and quantitative trading infrastructure.
+I turn painful, recurring workflows into systems that run without you.
 
-Currently building
-1. Leveraging AI systems, code and agents to automate every aspect of business as well as assisting in my AI research
-2. Mises Group Proprietary Trading System
+Through **[MyGrokFlow](https://mygrokflow.com)**, my AI automation agency, I work with founders, engineers, and operators whose businesses still bottleneck on them — automating ops reporting, lead handling, recruiting screens, and internal tools. Implementation included, not a prompt pack.
+
+I'm also building **[BDRclaw](https://bdrclaw.dev)** — an open-source AI BDR that researches prospects, personalizes outreach, handles replies, and books meetings across email, LinkedIn, SMS, WhatsApp, Telegram, X, and Instagram. Email platforms give you send infrastructure; BDRclaw gives you a thinking SDR.
+
+The engineering behind it comes from quantitative trading: at **Mises Group** I design autonomous AI agent systems that find and exploit inefficiencies across web3 markets — multi-agent architectures, real-time data pipelines, and Kubernetes-orchestrated production deployments. If an agent system can trade live capital reliably, it can run your back office.
+
+**Currently building**
+
+1. **MyGrokFlow** — done-for-you AI automation for high-leverage teams
+2. **BDRclaw** — the AI BDR that books meetings on every channel
+3. **Mises Group** proprietary AI trading systems
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BDRclaw</h3>
+      <p align="center">
+        <a href="https://bdrclaw.dev">
+          <img src="https://img.shields.io/badge/bdrclaw.dev-58A6FF?style=for-the-badge&logoColor=white" />
+        </a>
+        <a href="https://github.com/Josefusan/BDRclaw">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">Open-source AI BDR that books meetings on every channel — email, LinkedIn, SMS, WhatsApp, Telegram, X, Instagram. AI composes every message per prospect, quality-gates it, handles replies until the meeting books, and keeps your CRM as the source of truth. A thinking SDR at a fraction of the cost of one hire.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">MyGrokFlow</h3>
+      <p align="center">
+        <a href="https://mygrokflow.com">
+          <img src="https://img.shields.io/badge/mygrokflow.com-58A6FF?style=for-the-badge&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">AI automation agency for founders, engineers, and operators. We diagnose where your business still waits on you, then design and implement custom AI workflows — ops reporting, recruiting screens, internal tools — that run without you. Systems, not prompt packs.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,24 +133,6 @@ Currently building
 
 </td>
 </tr>
-</table>
-
----
-
-### 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">BDRclaw</h3>
-      <p align="center">
-        <a href="https://github.com/Josefusan/BDRclaw">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">Open-source AI BDR/SDR application layer. Autonomous meeting booking engine that qualifies leads and schedules while you close.</p>
-    </td>
-  </tr>
 </table>
 
 ---
