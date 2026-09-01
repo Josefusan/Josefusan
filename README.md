@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Founder @ MyGrokFlow · Building BDRclaw · Quant @ Mises Group</b><br/>
-  I build AI systems that run businesses without their owners — automated workflows, AI sales agents, and trading systems that work while you sleep.
+  I build AI systems that run businesses without their owners: automated workflows, AI sales agents, and trading systems that work while you sleep.
 </p>
 
 <p align="center">
@@ -30,16 +30,16 @@
 
 I turn painful, recurring workflows into systems that run without you.
 
-Through **[MyGrokFlow](https://mygrokflow.com)**, my AI automation agency, I work with founders, engineers, and operators whose businesses still bottleneck on them — automating ops reporting, lead handling, recruiting screens, and internal tools. Implementation included, not a prompt pack.
+Through **[MyGrokFlow](https://mygrokflow.com)**, my AI automation agency, I work with founders, engineers, and operators whose businesses still bottleneck on them. We automate ops reporting, lead handling, recruiting screens, and internal tools. Implementation included, not a prompt pack.
 
-I'm also building **[BDRclaw](https://bdrclaw.dev)** — an open-source AI BDR that researches prospects, personalizes outreach, handles replies, and books meetings across email, LinkedIn, SMS, WhatsApp, Telegram, X, and Instagram. Email platforms give you send infrastructure; BDRclaw gives you a thinking SDR.
+I'm also building **[BDRclaw](https://bdrclaw.dev)**, an open source AI BDR that researches prospects, personalizes outreach, handles replies, and books meetings across email, LinkedIn, SMS, WhatsApp, Telegram, X, and Instagram. Email platforms give you send infrastructure; BDRclaw gives you a thinking SDR.
 
-The engineering behind it comes from quantitative trading: at **Mises Group** I design autonomous AI agent systems that find and exploit inefficiencies across web3 markets — multi-agent architectures, real-time data pipelines, and Kubernetes-orchestrated production deployments. If an agent system can trade live capital reliably, it can run your back office.
+The engineering behind it comes from quantitative trading: at **Mises Group** I design autonomous AI agent systems that find and exploit inefficiencies across web3 markets, from agent architectures and live data pipelines to production deployments orchestrated on Kubernetes. If an agent system can trade live capital reliably, it can run your back office.
 
 **Currently building**
 
-1. **MyGrokFlow** — done-for-you AI automation for high-leverage teams
-2. **BDRclaw** — the AI BDR that books meetings on every channel
+1. **MyGrokFlow**: AI automation designed, built, and run for you
+2. **BDRclaw**: the AI BDR that books meetings on every channel
 3. **Mises Group** proprietary AI trading systems
 
 ---
@@ -58,7 +58,7 @@ The engineering behind it comes from quantitative trading: at **Mises Group** I 
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
-      <p align="center">Open-source AI BDR that books meetings on every channel — email, LinkedIn, SMS, WhatsApp, Telegram, X, Instagram. AI composes every message per prospect, quality-gates it, handles replies until the meeting books, and keeps your CRM as the source of truth. A thinking SDR at a fraction of the cost of one hire.</p>
+      <p align="center">Open source AI BDR that books meetings on every channel: email, LinkedIn, SMS, WhatsApp, Telegram, X, Instagram. AI composes every message per prospect, quality gates it, handles replies until the meeting books, and keeps your CRM as the source of truth. A thinking SDR at a fraction of the cost of one hire.</p>
     </td>
     <td width="50%">
       <h3 align="center">MyGrokFlow</h3>
@@ -67,7 +67,7 @@ The engineering behind it comes from quantitative trading: at **Mises Group** I 
           <img src="https://img.shields.io/badge/mygrokflow.com-58A6FF?style=for-the-badge&logoColor=white" />
         </a>
       </p>
-      <p align="center">AI automation agency for founders, engineers, and operators. We diagnose where your business still waits on you, then design and implement custom AI workflows — ops reporting, recruiting screens, internal tools — that run without you. Systems, not prompt packs.</p>
+      <p align="center">AI automation agency for founders, engineers, and operators. We diagnose where your business still waits on you, then design and implement custom AI workflows (ops reporting, recruiting screens, internal tools) that run without you. Systems, not prompt packs.</p>
     </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@ The engineering behind it comes from quantitative trading: at **Mises Group** I 
 
 | Event | Project | Result |
 |-------|---------|--------|
-| **LabLab.ai AI Agents Hackathon** | [Twitter Bot 9000](https://lablab.ai/ai-hackathons/ai-agents-hackathon-2/twitter-bot-9000/twitter-bot-9000) — Fully autonomous Twitter thread writer using multi-agent LangChain pipelines (Idea Generator → Research Agent → Thread Generator → Auto-Post). Praised by PhD judges for effective agent prompting. | 🏆 Winner |
+| **LabLab.ai AI Agents Hackathon** | [Twitter Bot 9000](https://lablab.ai/ai-hackathons/ai-agents-hackathon-2/twitter-bot-9000/twitter-bot-9000): fully autonomous Twitter thread writer using agentic LangChain pipelines (Idea Generator → Research Agent → Thread Generator → Auto Post). Praised by PhD judges for effective agent prompting. | 🏆 Winner |
 
 ---
 
