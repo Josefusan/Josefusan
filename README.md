@@ -72,7 +72,7 @@ I treat AI as delivery infrastructure, not a personality.
 - Focus on control flow, quality gates, and auditability — the parts employers care about when AI touches customers
 
 **Selected recognition**
-- **LabLab.ai AI Agents Hackathon — Winner** — autonomous multi-agent pipeline; recognized for effective agent prompting
+- **LabLab.ai AI Agents Hackathon — autonomous multi-agent pipeline; recognized for effective agent prompting
 
 I’m less interested in “AI for AI’s sake” and more in: *Does this reduce implementation friction, protect the account, and survive production?*
 
