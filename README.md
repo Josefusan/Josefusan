@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Joseph David Clark</b><br/>
+  <b>Joseph Clark</b><br/>
   Technical Account Manager · AI Solutions · Sales Engineer<br/>
   <sub>Remote · Clients + systems + practical AI</sub>
 </p>
