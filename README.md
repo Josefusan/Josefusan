@@ -1,6 +1,6 @@
 <p align="center">
   <b>Joseph Clark</b><br/>
-  Technical Account Manager · AI Solutions · Sales Engineer<br/>
+  Agentic Programmer · AI Solutions · Sales Engineer · GTM<br/>
   <sub>Remote · Clients + systems + practical AI</sub>
 </p>
 
