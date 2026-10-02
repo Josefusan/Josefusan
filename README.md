@@ -16,6 +16,37 @@
 
 ---
 
+### 🏟️ Now: AnsemHack Clawrena entry — PumpWire · $PWIRE
+
+<p align="center">
+  <a href="https://pump.fun"><img src="https://pump.fun/icon.png" alt="pump.fun" height="56" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://clawpump.tech/ansemhack"><img src="https://clawpump.tech/icon.png" alt="ClawPump" height="56" /></a>
+</p>
+
+I entered the **[AnsemHack Clawrena](https://clawpump.tech/ansemhack)** (Solana, hosted by [@clawpumptech](https://x.com/clawpumptech)) in the **ClawPump × pump.fun** track with **PumpWire** — an AI agent that sells **rug-risk scores, early-buyer maps and deployer alerts, paid per call over x402.** ([announcement](https://x.com/Josefusan111/status/2105017820816019781))
+
+<p align="center">
+  <a href="https://github.com/Josefusan/clawdpump-pwire"><img src="https://img.shields.io/badge/Repo-clawdpump--pwire-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://formation-parental-nuclear-fair.trycloudflare.com/live/"><img src="https://img.shields.io/badge/Live-paid_calls-brightgreen?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/network-Solana-9945FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/payments-x402-00A3FF?style=for-the-badge" />
+</p>
+
+**What I built, explained simply**
+
+- **The problem.** [pump.fun](https://pump.fun) lets anyone launch a Solana token in seconds on a *bonding curve* (price rises automatically as people buy). That speed also makes "rug pulls" easy: a developer launches, friends' wallets buy first, then everyone dumps on later buyers. A trading bot looking at a brand-new token can't easily see who deployed it, who bought first, or whether those early buyers are secretly the same person.
+- **What PumpWire does.** It watches every pump.fun launch on-chain, stores launches, trades and wallet funding links, and turns them into a **0–100 rug-risk score** with plain-English reasons (e.g. *"3 buyers in the creation slot share one funding wallet"*). The score is a deterministic, versioned function, so every number can be traced back to the evidence.
+- **How agents pay for it.** Instead of API keys and subscriptions, it uses **[x402](https://x402.org)** — a revival of the web's old `HTTP 402 Payment Required` status code. An agent calls `GET /v1/risk/:mint`, gets a `402` with the price ($0.01 USDC), pays on Solana, retries, and gets the answer. Every call is an on-chain transaction.
+- **How agents plug in.** It ships as an **MCP server**, so Claude, Cursor or a claw-agent can simply ask *"rug check `<mint>`"* and pay from their own wallet, with spending caps enforced before anything is signed.
+- **Stack.** TypeScript/Node workers → SQLite (WAL) → Express + x402 API → MCP client, plus a public `/live` dashboard that separates our own test calls from third-party calls.
+
+**Links for the judges** · Repo: [Josefusan/clawdpump-pwire](https://github.com/Josefusan/clawdpump-pwire) · Live paid calls: [/live](https://formation-parental-nuclear-fair.trycloudflare.com/live/) · $PWIRE: `2b2Tv315U1FUtYF9Y1H2b2qrCnL3tN5QPabScFPCw8vw` · [#AnsemHack](https://x.com/hashtag/AnsemHack)
+
+<sub>Risk information from public on-chain data only, not investment advice. $PWIRE is a utility token for the hackathon.</sub>
+
+---
+
 ### About
 
 I sit between customers and product.
