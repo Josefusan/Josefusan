@@ -16,7 +16,7 @@
 
 ---
 
-### 🏟️ Now: AnsemHack Clawrena entry — PumpWire · $PWIRE
+### 🏟️ Now: AnsemHack Clawrena entry: PumpWire · $PWIRE
 
 <p align="center">
   <a href="https://pump.fun"><img src="https://pump.fun/icon.png" alt="pump.fun" height="56" /></a>
