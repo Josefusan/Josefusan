@@ -9,11 +9,6 @@
   <a href="https://github.com/Josefusan"><img src="https://img.shields.io/badge/GitHub-Josefusan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Josefusan&color=0A66C2&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Josefusan?style=flat-square&color=0A66C2&label=Followers" />
-</p>
-
 ---
 
 ### 🏟️ Now: AnsemHack Clawrena entry: PumpWire · $PWIRE
