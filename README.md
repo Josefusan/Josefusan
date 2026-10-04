@@ -135,16 +135,6 @@ I’m less interested in “AI for AI’s sake” and more in: *Does this reduce
 **Build** — TypeScript · Python · JavaScript · Next.js/React · Node · APIs · SQL · Git
 
 **Languages** — English (native) · Spanish (C1) · Italian (B1) · Portuguese (B1)
-
----
-
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josefusan&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josefusan&theme=default&hide_border=true" width="48%" />
-</p>
-
 ---
 
 <p align="center">
