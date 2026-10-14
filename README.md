@@ -147,7 +147,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
     <td width="50%" valign="top">
       <h3 align="center">Polymarket arbitrage bot</h3>
       <p align="center">
-        <a href="https://josephdev.online/case-study"><img src="https://img.shields.io/badge/Case_study-read-111111?style=for-the-badge" /></a>
+        <img src="https://img.shields.io/badge/Rust_+_Python-trading_system-111111?style=for-the-badge" />
       </p>
       <p align="center">Pair arbitrage on Polymarket's 5-minute crypto markets. Rust on the hot path, Python for research, an explicit order state machine. Cut identify-to-send latency from 500 ms to 130 ms by measuring first and moving regions.</p>
     </td>
@@ -177,7 +177,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
       <p align="center">
         <a href="https://josephdev.online"><img src="https://img.shields.io/badge/Live-josephdev.online-111111?style=for-the-badge" /></a>
       </p>
-      <p align="center">My portfolio in four languages (EN / ES / PT / IT): services, process, an agent-org architecture diagram, the case study, and inquiry forms that route straight to my inbox.</p>
+      <p align="center">My site in four languages (EN / ES / PT / IT): an About page with the 90-second intro video, and a resume you request through a form that routes straight to my inbox.</p>
     </td>
   </tr>
 </table>
@@ -216,5 +216,5 @@ That path means I can own account health, renewals and escalations, run discover
 ---
 
 <p align="center">
-  <sub>Open to remote <b>Forward Deployed Engineer</b>, <b>GTM Engineer</b> and <b>Sales Engineer</b> roles · <a href="https://josephdev.online/contact">josephdev.online/contact</a></sub>
+  <sub>Open to remote <b>Forward Deployed Engineer</b>, <b>GTM Engineer</b> and <b>Sales Engineer</b> roles · <a href="https://josephdev.online/resume">request my resume</a></sub>
 </p>
