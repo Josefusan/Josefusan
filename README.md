@@ -163,7 +163,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
     <td width="50%" valign="top">
       <h3 align="center">MyGrokFlow</h3>
       <p align="center"><img src="https://img.shields.io/badge/Client_delivery-AI_automation-0A66C2?style=for-the-badge" /></p>
-      <p align="center">My AI BDR agency: agents run outbound across LinkedIn, email and DMs, triage inbound replies and support tickets, and hand qualified conversations to account executives, with the CRM as the source of truth. Discovery, build and handover so the client's sales team runs it day to day.</p>
+      <p align="center">GTM IAAS for a client that I built. Helps GTM Agencies and the GTM process become optimized from a cost reduction standpoint and increase scalability.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">BDRclaw</h3>
