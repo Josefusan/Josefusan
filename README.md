@@ -39,7 +39,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
 
 <p align="center">
   <img src="https://img.shields.io/badge/entries-4-111111?style=flat-square" />
-  <img src="https://img.shields.io/badge/building_now-2-F2A900?style=flat-square" />
+  <img src="https://img.shields.io/badge/submitted-2-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/live_on_Solana_mainnet-1-14F195?style=flat-square" />
   <img src="https://img.shields.io/badge/recognized-LabLab.ai-8A2BE2?style=flat-square" />
 </p>
@@ -52,7 +52,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
       <p align="center"><sub>COLOSSEUM · CRYPTO WORLD'S FAIR 2026</sub></p>
       <h3 align="center">🛣️ AgentToll</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/status-building%20%C2%B7%20due%20Oct%2012-F2A900?style=flat-square" />
+        <img src="https://img.shields.io/badge/status-done%20%C2%B7%20submitted-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/evals-119%2F119%20passing-brightgreen?style=flat-square" />
       </p>
       <p align="center"><b>Charge AI agents per request. Keep humans free.</b><br/>A drop-in paywall proxy for any site, API or MCP server: set a price per route or per tool, and agents pay per call in USDC over x402 while people browse free. No API keys, no signups, no invoices; money lands straight in the founder's own wallet.</p>
@@ -71,7 +71,7 @@ I have sat on both sides of the deal: carrying a quota-adjacent seat (sales engi
       <p align="center"><sub>PAYPAL AI HACKATHON · DEVPOST 2026</sub></p>
       <h3 align="center">💸 Payback.ai</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/status-building%20%C2%B7%20due%20Nov%2012-F2A900?style=flat-square" />
+        <img src="https://img.shields.io/badge/status-done%20%C2%B7%20submitted-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/track-agentic%20finance-003087?style=flat-square" />
       </p>
       <p align="center"><b>An AI back office for businesses that run on PayPal.</b><br/>Syncs PayPal activity, uses Cloudflare Clef decision models to pick the GL account, product line and risk for every transaction, books balanced double-entry journals, reconciles to the PayPal balance, and only acts (invoice reminders, payouts, dispute triage) when it is confident and policy allows. Otherwise it asks a human.</p>
