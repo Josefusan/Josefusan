@@ -1,6 +1,6 @@
 <p align="center">
   <b>Joseph C.</b><br/>
-  Forward Deployed Engineer · GTM Engineer · Sales Engineer<br/>
+  Forward Deployed Engineer with a focus on GTM <br/>
   <sub>Remote · I put AI systems into real customer workflows and stay until people use them</sub>
 </p>
 
